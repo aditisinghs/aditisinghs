@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, this is Aditi 👋
+
+I joined the Neuroscience of Multilingualism (NEU) lab in 2024 as a PhD student in the Cognition and Perception program. I completed my undergraduate degree in 2023 from Princeton University with a major in Computer Science and minors in Neuroscience, Cognitive Science, and Statistics and Machine Learning. My research background has primarily focused on human language processing—from both a neural and computational perspective—and I am fascinated by how people communicate in naturalistic environments with multiple languages and in multiple modalities.
+
+I have a keen interest in exploring the inherent flexibility of our language system that allows us to learn new languages, concurrently process multilingual, code-switched dialogue, and generalize newly learned concepts to new contexts. In my free time, I love going to board game cafes, tap dancing, listening to musicals, and reading books (& being disappointed by their movie adaptations).
 
 <!--
 **aditisinghs/aditisinghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
